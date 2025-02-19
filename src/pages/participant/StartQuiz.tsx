@@ -1,5 +1,30 @@
 import { motion } from "framer-motion";
-// import { MenuBar } from "../../components/FormSchema/MenuBar";
+// import { Link } from "react-router-dom";
+
+// const NavBar = () => (
+//   <header className="bg-white shadow-md">
+//     <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
+//       <div className="text-2xl font-bold text-blue-600">Examer</div>
+//       <ul className="flex space-x-6">
+//         <li>
+//           <Link to="/" className="hover:text-blue-500">
+//             Home
+//           </Link>
+//         </li>
+//         <li>
+//           <Link to="/about" className="hover:text-blue-500">
+//             About
+//           </Link>
+//         </li>
+//         <li>
+//           <Link to="/contact" className="hover:text-blue-500">
+//             Contact
+//           </Link>
+//         </li>
+//       </ul>
+//     </nav>
+//   </header>
+// );
 
 export const StartQuiz = () => {
   return (
