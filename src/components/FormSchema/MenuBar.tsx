@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const MenuBar: React.FC = () => {
+export const MenuBar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {

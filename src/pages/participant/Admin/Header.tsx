@@ -1,5 +1,5 @@
 import React from "react";
-import MenuBar from "../../../components/FormSchema/MeunBar";
+import MenuBar from "../../../components/FormSchema/MenuBar";
 
 export const Header: React.FC = () => {
   return (
